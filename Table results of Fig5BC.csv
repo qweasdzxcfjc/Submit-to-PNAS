@@ -1,0 +1,13 @@
+﻿ ,Innovation Quantity,Innovation Quality,Innovation Novelty,Innovation Quantity,Innovation Quality,Innovation Novelty
+Dataflow,0.5214***,0.8497***,1.1213***,0.0159,0.0575,0.0944*
+Standard Error,0.1450,0.1681,0.1920,0.0754,0.0584,0.0524
+Country FE,YES,YES,YES,YES,YES,YES
+Year FE,YES,YES,YES,YES,YES,YES
+Country Year Trend,YES,YES,YES,YES,YES,YES
+Adj.R²,0.9604,0.9462,0.9190,0.6379,0.4352,0.3165
+Observations,3441,3441,3441,3589,3589,3589
+Clusters,93,93,93,97,97,97
+Net Effect (Percentage),0.1794,0.2924,0.3858,-,-,0.0325
+Net Effect (Quantity),118.8647,87.2543,78.4360,-,-,6.6056
+Unit Flow Net Effect (Quantity),83.0829,60.9882,54.8245,-,-,4.6171
+Total Flow Net Effect (Quantity),38239.0431,28069.9064,25233.0371,-,-,2125.0256
